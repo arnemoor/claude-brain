@@ -1,6 +1,9 @@
 {
   "name": "claude-brain",
-  "owner": { "name": "Arne Moor" },
+  "owner": {
+    "name": "Arne Moor"
+  },
+  "description": "Long-term memory for Claude as an Obsidian vault in git.",
   "plugins": [
     {
       "name": "brain",
