@@ -1,0 +1,18 @@
+{
+  "name": "brain",
+  "description": "LLM-Wiki memory system for a solo or tiered Obsidian vault. Captures durable knowledge, searches it on demand, and injects only the always-on rules at session start.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Arne Moor"
+  },
+  "homepage": "https://github.com/arnemoor/claude-brain",
+  "keywords": [
+    "memory",
+    "llm-wiki",
+    "vault",
+    "knowledge-base",
+    "search",
+    "brain",
+    "obsidian"
+  ]
+}

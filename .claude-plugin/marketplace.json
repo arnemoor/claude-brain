@@ -1,0 +1,12 @@
+{
+  "name": "claude-brain",
+  "owner": { "name": "Arne Moor" },
+  "plugins": [
+    {
+      "name": "brain",
+      "source": "./plugins/brain",
+      "description": "LLM-Wiki memory for Claude Code: a solo or tiered Obsidian vault in git, must-know rules injected at session start, pages found on demand.",
+      "version": "0.1.0"
+    }
+  ]
+}
